@@ -26,7 +26,11 @@ Given that currently JPMC is leading in AI technology within the banking industr
 Citations 
 
 https://www.jpmorganchase.com/about/our-history 
+
 https://en.wikipedia.org/wiki/Chemical_Bank
+
 https://siliconangle.com/2021/07/10/new-era-data-deep-look-jpmorgan-chase-runs-data-mesh-aws-cloud/
+
 https://www.forbes.com/sites/janakirammsv/2024/07/30/jpmorgan-chase-leads-ai-revolution-in-finance-with-launch-of-llm-suite/
+
 https://www.bankingdive.com/news/jpmorgan-chase-capital-one-ai-adoption-leaders-evident/730268/
